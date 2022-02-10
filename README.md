@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeifrEiriksson
-- 👀 I’m interested in Python, Data Science/Analytics, IA, Machine Learning =)
+- 👀 I’m interested in Python, R, Data Science/Analytics, IA, Machine Learning =)
 - 🌱 I’m currently learning Python and R
 - 📫 How to reach me https://www.linkedin.com/in/jo%C3%A3o-vitor-de-castro-e-silva-56726a1b3/
 

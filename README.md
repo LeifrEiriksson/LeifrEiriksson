@@ -1,6 +1,6 @@
 # Hello! I'm João Vitor 👋 
 
-I'm a 27-year-old Data Analyst from Brazil, passionate about data engineering. 
+I'm a 28-year-old Data Analyst from Brazil, passionate about data engineering. 
 
 💼 Currently working at Stone Co., a leading Brazilian fintech in payments and banking solutions.
 
